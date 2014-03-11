@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Don't remove any line. If you don't want to add something (I.E the dock) just leave it blank -->
+    <array name="inspire_theme">
+        <!-- Define wallpaper here -->
+        <item name="wallpaper">wallpaper</item>
+        <!-- Define app drawer icon style here -->
+        <item name="all_apps_style">all_apps_button_rombi</item>
+        <!-- Define dock background here -->
+        <item name="dock_style">spectrum_dock</item>
+        <!-- Define folder icon style here -->
+        <item name="folder_style">portal_ring_inner_rombo</item>
+        <!-- Define current page indicator (Current page) -->
+        <item name="page_indicator_current_style">ic_pageindicator_current</item>
+        <!-- Define default page indicator (Page not in focus) -->
+        <item name="page_indicator_default_style">ic_pageindicator_default</item>
+    </array>
+
+</resources>

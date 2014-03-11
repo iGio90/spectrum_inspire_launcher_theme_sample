@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+		<item>@drawable/browser</item>
+        <item>chrome</item>
+        <item>amazon</item>
+        <item>at2</item>
+	</string-array>
+</resources>
