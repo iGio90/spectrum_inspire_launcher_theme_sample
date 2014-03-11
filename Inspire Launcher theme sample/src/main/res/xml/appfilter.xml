@@ -3,7 +3,7 @@
     <iconback img="iconback" img1="iconback1" img2="iconback2" img3="iconback3" img4="iconback4" img5="iconback5" />
 	<iconmask img="iconmask" />
     <iconupon img="iconupon" />
-    <scale factor=".65" />
+    <scale factor=".60" />
 
     <!-- Browser -->
 	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
